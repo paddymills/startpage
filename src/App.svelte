@@ -1,5 +1,5 @@
 <script>
-	import { Github, Microsoftoutlook, Spotify, Youtube } from "@icons-pack/svelte-simple-icons";
+	import { Github, Microsoftoutlook, Reddit, Spotify, Youtube } from "@icons-pack/svelte-simple-icons";
 	import Monday from "./components/Monday.svelte";
 	import Card from "./components/Card.svelte";
 
@@ -36,6 +36,7 @@
 				{ title: "Rust-by-example Ext", 			url: "https://rust-by-example-ext.com/" },
 				{ title: "Rust too-many-lists", 			url: "https://rust-unofficial.github.io/too-many-lists/" },
 				{ title: "MDN { JavaScript }", 				url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript" },
+				{ title: "Svelte Docs",						url: "https://svelte.dev" },
 			]
 		},
 	];
@@ -44,10 +45,11 @@
 <main>
 	<div id="icons">
 		<a href="https://outlook.office.com"><Microsoftoutlook color="#0072C6" /></a>
+		<a href="https://production-control-force.monday.com/"><Monday /></a>
 		<a href="https://github.com/paddymills"><Github color="#333" /></a>
+		<a href="https://reddit.com"><Reddit color="#FF5700" /></a>
 		<a href="https://open.spotify.com"><Spotify color="#1DB954" /></a>
 		<a href="https://youtube.com"><Youtube color="#FF0000" /></a>
-		<a href="https://production-control-force.monday.com/"><Monday /></a>
 	</div>
 
 	<div id="links">
@@ -68,7 +70,7 @@
 		justify-content: center;
 	}
 	
-	#icons > a {
+	a {
 		margin: 1em;
 	}
 </style>
