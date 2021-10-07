@@ -28,17 +28,31 @@
 			title: "Dev",
 			links: [
 				{ title: "Riddle <rust fiddle>", 			url: "https://play.rust-lang.org/" },
-				{ title: "Rust::std", 						url: "https://doc.rust-lang.org/std/index.html" },
 				{ title: "crates.io", 						url: "https://crates.io/" },
 				{ title: "Rust <learn>", 					url: "https://www.rust-lang.org/learn" },
 				{ title: "Rust Nursery - Cookbook", 		url: "https://rust-lang-nursery.github.io/rust-cookbook/" },
 				{ title: "Rust-by-example", 				url: "https://doc.rust-lang.org/rust-by-example/" },
 				{ title: "Rust-by-example Ext", 			url: "https://rust-by-example-ext.com/" },
 				{ title: "Rust too-many-lists", 			url: "https://rust-unofficial.github.io/too-many-lists/" },
-				{ title: "MDN { JavaScript }", 				url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript" },
-				{ title: "Svelte Docs",						url: "https://svelte.dev" },
 			]
 		},
+		{
+			title: "DevDocs",
+			links: [
+				{ title: "devdocs.io", 						url: "https://devdocs.io/" },
+
+				// javascript
+				{ title: "Svelte Docs",						url: "https://svelte.dev" },
+				{ title: "MDN { JavaScript }", 				url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript" },
+
+				// python
+				{ title: "pyodbc",	 						url: "https://github.com/mkleehammer/pyodbc/wiki" },
+				{ title: "xlwings", 						url: "https://docs.xlwings.org/en/stable/api.html" },
+
+				// rust
+				{ title: "Rust::std", 						url: "https://doc.rust-lang.org/std/index.html" },
+			]
+		}
 	];
 </script>
 
