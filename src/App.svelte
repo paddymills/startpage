@@ -11,6 +11,7 @@
 				{ title: "UltiPro",							url: "https://e14.ultipro.com/Login.aspx" },
 				{ title: "ExProc", 							url: "https://apps.high.net/ExProc/" },
 				{ title: "Markdown Notes", 					url: "https://dillinger.io/" },
+				{ title: "SSRS",							url: "https://hiiboserv2.high.net/Reports/favorites" }
 			]
 		},
 		{
