@@ -12,7 +12,7 @@
 				{ title: "ExProc", 							url: "https://apps.high.net/ExProc/" },
 				{ title: "Markdown Notes", 					url: "https://dillinger.io/" },
 				{ title: "SSRS",							url: "https://hiiboserv2.high.net/Reports/favorites" },
-				{ title: "Kronos",							url: "high.kronos.net/wfc/logon" }
+				{ title: "Kronos",							url: "https://high.kronos.net/wfc/logon" }
 			]
 		},
 		{
@@ -20,7 +20,7 @@
 			links: [
 				{ title: "Sim Trans", 						url: "http://hssappserv1:3000/" },
 				{ title: "SigmaNest License Server",		url: "http://hssappserv1:5055/" },
-				{ title: "SigmaNest connect", 				url: "https://connect.sigmanest.com/" },
+				{ title: "SigmaNest connect", 				url: "https://connect.cambrio.com/" },
 				{ title: "Sim Trans Docs", 					url: "http://hssappserv1:3000/HelpCenter/content/home.htm" },
 				{ title: "SigmaNest Docs", 					url: "file:///C:/Program%20Files/SigmaTEK/SigmaNEST%20X1.7%20SP5/Help/HelpCenter/Content/Home.htm" },
 				{ title: "NX12 Docs", 						url: "https://docs.plm.automation.siemens.com/tdoc/nx/12/nx_help/#uid:index" },
