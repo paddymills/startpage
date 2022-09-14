@@ -3,8 +3,7 @@
 	import Monday from "./components/Monday.svelte";
 	import Card from "./components/Card.svelte";
 
-
-	let sites = require('./sites.json');
+	import sites from './sites.json';
 </script>
 
 <main>
