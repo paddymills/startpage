@@ -17,6 +17,10 @@
 			{
 				"title": "Kronos",
 				"url": "https://high.kronos.net/wfc/logon"
+			},
+			{
+				"title": "Progressive DNC",
+				"url": "http://10.101.16.155:8080/Thingworx/FormLogin/ProgressiveDNC"
 			}
 		]
 	},
