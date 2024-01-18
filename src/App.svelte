@@ -1,5 +1,5 @@
 <script>
-	import { Github, Microsoftoutlook, Reddit, Spotify, Youtube } from "@icons-pack/svelte-simple-icons";
+	import { Github, Microsoftoutlook, OpenAi, Reddit, Spotify, Youtube } from "@icons-pack/svelte-simple-icons";
 	import Monday from "./components/Monday.svelte";
 	import Card from "./components/Card.svelte";
 
@@ -8,7 +8,7 @@
 
 <main>
 	<div id="icons">
-		<a href="https://chat.openai.com"><img src="https://s2.googleusercontent.com/s2/favicons?domain=chat.openai.com" alt="ChatGPT"></a>
+		<a href="https://chat.openai.com"><OpenAi /></a>
 		<a href="https://outlook.office.com"><Microsoftoutlook color="#0072C6" /></a>
 		<a href="https://production-control-force.monday.com/"><Monday /></a>
 		<a href="https://github.com/paddymills"><Github color="#333" /></a>
