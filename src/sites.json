@@ -37,11 +37,11 @@
 			},
 			{
 				"title": "Sim Trans Docs",
-				"url": "http://hssappserv1:3000/HelpCenter/content/home.htm"
+				"url": "file:///C:/ProgramData/SigmaTEK/Help%20Files/24.4/SP0/Content/4_Business%20Systems/SimTrans/SimTrans.htm"
 			},
 			{
 				"title": "SigmaNest Docs",
-				"url": "file:///C:/ProgramData/SigmaTEK/Help%20Files/24.1/Default.htm"
+				"url": "file:///C:/ProgramData/SigmaTEK/Help%20Files/24.4/SP0/Content/SigmaNEST.htm"
 			},
 			{
 				"title": "NX1899 Docs",
