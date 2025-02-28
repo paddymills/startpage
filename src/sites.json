@@ -28,10 +28,6 @@
 		"title": "SigmaNest/NX",
 		"links": [
 			{
-				"title": "Sim Trans",
-				"url": "http://hssappserv1:3000/"
-			},
-			{
 				"title": "SigmaNest License Server",
 				"url": "http://hsssigma:5055/"
 			},
