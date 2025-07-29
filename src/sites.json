@@ -46,7 +46,15 @@
 			{
 				"title": "NX1899 Docs",
 				"url": "https://docs.plm.automation.siemens.com/tdoc/nx/1899/nx_help/#uid:index"
-			}
+			},
+      {
+        "title": "Cds (CadCam)",
+        "url": "http://10.4.5.38:3000/illusive-consonant"
+      },
+      {
+        "title": "Cds (shop)",
+        "url": "http://10.4.5.38:3000/"
+      }
 		]
 	},
 	{
